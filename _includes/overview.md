@@ -1,1 +1,1 @@
-Select an audio guide stop to begin.
+حدد نقطة توقف لبدء الدليل الصوتي.
