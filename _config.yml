@@ -17,7 +17,7 @@ url: "https://leen-qm.github.io" # the base hostname & protocol for your site
 logo: "/assets/img/logo/audio-guide.png"
 twitter_username:
 github_username: 
-menu_heading: "Select another stop"
+menu_heading: "اختر نقطة توقف اخرى"
 index_page_text: ".حدد نقطة توقف لبدء الدليل الصوتي"
 headphones_icon_color: "/assets/img/icons/headphones-dark.png"
 headphones_icon_light: "/assets/img/icons/headphones-light.png"
